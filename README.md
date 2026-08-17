@@ -1,4 +1,4 @@
-# 🥷 Propandab12's Portfolio
+# Propandab12's Portfolio
 **Roblox QA Tester • Discord Moderator • Content Creator**
 
 👋 **About Me**
