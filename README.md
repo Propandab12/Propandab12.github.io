@@ -2,7 +2,7 @@
 **Roblox QA Tester • Discord Moderator • Content Creator**
 
 👋 **About Me**
-I am a multi-talented professional who has a years worth of experience and helps gaming communities grow and succeed. I thoroughly test Roblox games to find game-breaking bugs, keep Discord servers safe and active, and create engaging content to bring in new players. 
+I am a multi-talented professional who has a years worth of experience in helping gaming communities grow and succeed. I thoroughly test Roblox games to find game-breaking bugs, keep Discord servers safe and active, and create engaging content to bring in new players. 
 
 📌 **Contact Me:** 
 - 💬 **Discord:** supercoolninja.
@@ -14,7 +14,7 @@ I am a multi-talented professional who has a years worth of experience and helps
 ### 🕹️ 1. Roblox QA Testing
 I test games like a real player while hunting down glitches, map exploits, and UI issues to save developers time.
 
-- **Devices I Test On:** Windows P.C, Samsung phone
+- **Devices I Test On:** Windows P.C, Android phone
 - **My Testing Style:** I record my full gameplay, test features multiple times, and look for sneaky bugs that are hard to spot.
 
 #### 📂 Testing company's I have worked with
