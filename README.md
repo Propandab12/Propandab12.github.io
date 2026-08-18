@@ -36,7 +36,7 @@ I test games like a real player while hunting down glitches, map exploits, and U
 ### 💬 2. Discord Server Moderation
 I manage online communities to protect members from raids, stop scam links, and keep the environment friendly.
 
-- **Moderation Tools I Know:**  Discord AutoMod, Dyno, MEE6, Carl-bot, Arcane
+- **Moderation Tools I Know:**  Discord AutoMod, Dyno, MEE6, Carl-bot, Arcane...
 - **Core Skills:** Active chat engagement, ticket handling, raid prevention, and conflict resolution.
 
 #### 📂 Moderation Experience
