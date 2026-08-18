@@ -54,13 +54,19 @@ I create gaming content that builds hype and drives player engagement. I can use
 
 - **Platforms:** YouTube
 - **Niche/Focus:** Roblox gameplay, updates, tutorials'
-- **Stats:** 250+ Total Subscribers / 80k+ Total Views
-
+- **Stats:** 250+ Total Subscribers / 170k+ Total Views
 #### 📈 Best Performing Content
 - **Unlocking the gorgon in necromerger** — `17,000+ views` on YouTube
   - *Description:* My current best performing short showing me unlock a Legendary creature in Necromerger.
 - **walkthrough in Roblox +1 jump evolve tower (1-1000m)** — `200+ views` on YouTube
   - *Description:* My current best performing video showing me doing a walkthrough In the game.
+#### 📂 Company's I have worked for
+- **Mauv studio** - **2,400+ Members**
+  - *Role:* Content Creator
+  - *Impact:* Produced content about there game and promoted it.
+- **Be Diao Nexus** - **900+ Members**
+  - *Role:* Content Creator
+  - *Impact:* Produced content about there game and promoted it.
 
 ---
 Thank you for your time! Let's work together to make your community and game successful.
