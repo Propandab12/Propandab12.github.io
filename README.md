@@ -59,7 +59,7 @@ I create gaming content that builds hype and drives player engagement. I can use
 #### 📈 Best Performing Content
 - **Unlocking the gorgon in necromerger** — `17,000+ views` on YouTube
   - *Description:* My current best performing short showing me unlock a Legendary creature in Necromerger.
-- **walkthrough in Roblox +1 jump evolve tower (1-1000m)** — `190+ views` on YouTube
+- **walkthrough in Roblox +1 jump evolve tower (1-1000m)** — `200+ views` on YouTube
   - *Description:* My current best performing video showing me doing a walkthrough In the game.
 
 ---
