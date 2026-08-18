@@ -17,7 +17,7 @@ I test games like a real player while hunting down glitches, map exploits, and U
 - **Devices I Test On:** Windows P.C, Android phone
 - **My Testing Style:** I record my full gameplay, test features multiple times, and look for sneaky bugs that are hard to spot.
 
-#### 📂 Testing company's I have worked with
+#### 📂 Testing companies I have worked with
 - Zombie Obby Games
 - Guildcat Games
 - LAB Development
@@ -60,13 +60,13 @@ I create gaming content that builds hype and drives player engagement. I can use
   - *Description:* My current best performing short showing me unlock a Legendary creature in Necromerger.
 - **walkthrough in Roblox +1 jump evolve tower (1-1000m)** — `200+ views` on YouTube
   - *Description:* My current best performing video showing me doing a walkthrough In the game.
-#### 📂 Company's I have worked for
+#### 📂 Companies I have worked for
 - **Mauv studio** - **2,400+ Members**
   - *Role:* Content Creator
-  - *Impact:* Produced content about there game and promoted it.
+  - *Impact:* Produced content about their game and promoted it.
 - **Be Diao Nexus** - **900+ Members**
   - *Role:* Content Creator
-  - *Impact:* Produced content about there game and promoted it.
+  - *Impact:* Produced content about their game and promoted it.
 
 ---
 Thank you for your time! Let's work together to make your community and game successful.
