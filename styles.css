@@ -1,0 +1,156 @@
+/* Color Palette & Base Layout Setup */
+:root {
+    --bg-color: #0d0e12;       /* Deep dark gaming background */
+    --card-bg: #161920;        /* Sleek card container background */
+    --primary-glow: #00f2fe;   /* Neon Cyan highlight glow */
+    --secondary-glow: #4facfe; /* Electric Blue gradient accent */
+    --text-main: #f5f6fa;      /* Crisp bright white text */
+    --text-muted: #a0aec0;     /* Muted secondary gray text */
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    line-height: 1.6;
+    padding: 40px 20px;
+}
+
+/* Master Container */
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+/* Hero Header Design */
+header {
+    text-align: center;
+    padding: 40px 20px;
+    background: linear-gradient(135deg, #1e222b, var(--card-bg));
+    border-radius: 16px;
+    border: 1px solid rgba(0, 242, 254, 0.1);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    margin-bottom: 40px;
+}
+
+header h1 {
+    font-size: 2.5rem;
+    background: linear-gradient(90deg, var(--primary-glow), var(--secondary-glow));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 8px;
+}
+
+header p {
+    color: var(--text-muted);
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+/* Contact Badges */
+.contact-info {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    flex-wrap: wrap;
+}
+
+.contact-info a {
+    color: var(--text-main);
+    text-decoration: none;
+    background: rgba(255, 255, 255, 0.05);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+}
+
+.contact-info a:hover {
+    border-color: var(--primary-glow);
+    box-shadow: 0 0 10px rgba(0, 242, 254, 0.3);
+    transform: translateY(-2px);
+}
+
+/* Section Card Grid layout */
+section {
+    background-color: var(--card-bg);
+    padding: 30px;
+    border-radius: 16px;
+    margin-bottom: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+section h2 {
+    font-size: 1.6rem;
+    color: var(--primary-glow);
+    margin-bottom: 20px;
+    border-bottom: 2px solid rgba(0, 242, 254, 0.2);
+    padding-bottom: 8px;
+}
+
+section h3 {
+    margin-top: 20px;
+    color: var(--secondary-glow);
+    font-size: 1.2rem;
+}
+
+p, ul {
+    color: var(--text-muted);
+    margin-bottom: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    position: relative;
+    padding-left: 20px;
+    margin-bottom: 10px;
+}
+
+ul li::before {
+    content: "⚡";
+    position: absolute;
+    left: 0;
+    color: var(--primary-glow);
+}
+
+/* Inner Experience Box Items */
+.experience-item {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: 15px;
+    border-left: 4px solid var(--secondary-glow);
+}
+
+/* Bug Code Box Look */
+.code-box {
+    background-color: #090a0d;
+    padding: 20px;
+    border-radius: 8px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 0.9rem;
+    color: #e2e8f0;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+    overflow-x: auto;
+}
+
+/* Footer details */
+footer {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    margin-top: 50px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.05);
