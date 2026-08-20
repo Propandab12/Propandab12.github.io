@@ -156,16 +156,34 @@ footer {
     padding-top: 20px;
     border-top: 1px solid rgba(255, 255, 255, 0.05);
 
-/* Styling for the menu bar links */
+/* Outer layout wrap rules */
+.site-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+/* ⚡ The pure CSS Sticky Navigation Rule */
 .nav-bar {
+    position: -webkit-sticky; /* For Safari browser support */
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: rgba(22, 25, 32, 0.95);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid rgba(0, 242, 254, 0.15);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    padding: 15px 0;
+    margin-bottom: 30px;
+    z-index: 9999;
+}
+
+/* Centers the menu buttons on screen */
+.nav-container {
+    max-width: 900px;
+    margin: 0 auto;
     display: flex;
     justify-content: center;
-    background-color: var(--card-bg);
-    padding: 15px;
-    border-radius: 12px;
-    margin-bottom: 30px;
-    border: 1px solid rgba(255, 255, 255, 0.05);
-    z-index: 1000;
+    padding: 0 20px;
 }
 
 .nav-bar a {
@@ -179,19 +197,4 @@ footer {
 
 .nav-bar a:hover {
     color: var(--primary-glow);
-}
-
-/* ⚡ This locks the menu bar to the top when scrolling */
-.nav-bar.sticky {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    border-radius: 0;
-    margin-bottom: 0;
-    border-bottom: 1px solid rgba(0, 242, 254, 0.2);
-    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.6);
-    background-color: rgba(22, 25, 32, 0.95);
-    backdrop-filter: blur(8px);
-    padding: 12px 20px;
 }
