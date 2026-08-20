@@ -14,22 +14,30 @@
             <div class="contact-info">
                 <a href="#">💬 Discord: supercoolninja.</a>
                 <a href="mailto:scnk765@gmail.com">📧 scnk765@gmail.com</a>
-                <a href="https://www.youtube.com/@Propandab12" target="_blank">🎬 Content Channel</a>
+                <a href="https://youtube.com" target="_blank">🎬 Content Channel</a>
             </div>
         </header>
 
-        <section>
+        <!-- 🆕 THIS IS YOUR NEW STICKY MENU BAR -->
+        <nav id="sticky-nav" class="nav-bar">
+            <a href="#about">👋 About</a>
+            <a href="#qa">🕹️ QA Testing</a>
+            <a href="#mod">💬 Moderation</a>
+            <a href="#content">🎬 Content</a>
+        </nav>
+
+        <section id="about">
             <h2>👋 About Me</h2>
             <p>I am a multi-talented professional who has a years worth of experience in helping gaming communities grow and succeed. I thoroughly test Roblox games to find game-breaking bugs, keep Discord servers safe and active, and create engaging content to bring in new players.</p>
         </section>
 
-        <section>
+        <section id="qa">
             <h2>🕹️ 1. Roblox QA Testing</h2>
             <p>I test games like a real player while hunting down glitches, map exploits, and UI issues to save developers time.</p>
             
             <h3>📋 Testing Details</h3>
             <ul>
-                <li><strong>Devices I Test On:</strong> Windows PC, Android phone</li>
+                <li><strong>Devices I Test On:</strong> Windows P.C, Android phone</li>
                 <li><strong>My Testing Style:</strong> I record my full gameplay, test features multiple times, and look for sneaky bugs that are hard to spot.</li>
             </ul>
 
@@ -53,7 +61,7 @@
             </div>
         </section>
 
-        <section>
+        <section id="mod">
             <h2>💬 2. Discord Server Moderation</h2>
             <p>I manage online communities to protect members from raids, stop scam links, and keep the environment friendly.</p>
             
@@ -74,14 +82,14 @@
             </div>
         </section>
 
-        <section>
+        <section id="content">
             <h2>🎬 3. Content Creation</h2>
             <p>I create gaming content that builds hype and drives player engagement. I can use these skills to help showcase upcoming updates or create tutorials for your community.</p>
             
             <h3>📊 Channel Analytics</h3>
             <ul>
                 <li><strong>Platforms:</strong> YouTube</li>
-                <li><strong>Niche/Focus:</strong> Roblox gameplay, updates, tutorials</li>
+                <li><strong>Niche/Focus:</strong> Roblox gameplay, updates, tutorials'</li>
                 <li><strong>Stats:</strong> 250+ Total Subscribers / 170k+ Total Views</li>
             </ul>
 
@@ -111,5 +119,18 @@
             <p style="margin-top: 10px; font-size: 0.75rem;">&copy; 2026 Propandab12</p>
         </footer>
     </div>
+
+    <script>
+        const navBar = document.getElementById("sticky-nav");
+        const stickyOffset = navBar.offsetTop;
+
+        window.onscroll = function() {
+            if (window.pageYOffset >= stickyOffset) {
+                navBar.classList.add("sticky");
+            } else {
+                navBar.classList.remove("sticky");
+            }
+        };
+    </script>
 </body>
 </html>
