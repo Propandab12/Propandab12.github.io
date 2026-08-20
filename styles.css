@@ -116,6 +116,7 @@ ul li {
     position: relative;
     padding-left: 20px;
     margin-bottom: 10px;
+    list-style-type: none;
 }
 
 ul li::before {
