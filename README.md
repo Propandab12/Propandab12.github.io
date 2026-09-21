@@ -21,7 +21,7 @@ I test games like a real player while hunting down glitches, map exploits, and U
 - Zombie Obby Games
 - Guildcat Games
 - LAB Development
-- Playverse
+- Mappy Tappy
 - OpenDev
 - And more...
 #### 📝 Example Bug Report Format
