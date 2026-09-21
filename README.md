@@ -6,7 +6,7 @@ I am a multi-talented professional who has a years worth of experience in helpin
 
 📌 **Contact Me:** 
 - 💬 **Discord:** supercoolninja.
-- 📧 **Email:** scnk765@gmail.com
+- 📧 **Email:** Lamaj0765@gmail.com
 - 🎬 **Content Channel:** www.youtube.com/@Propandab12
 
 ---
@@ -22,6 +22,7 @@ I test games like a real player while hunting down glitches, map exploits, and U
 - Guildcat Games
 - LAB Development
 - Playverse
+- OpenDev
 - And more...
 #### 📝 Example Bug Report Format
 > **Title:** UI Shop buttons overlap on mobile screens
@@ -43,28 +44,28 @@ I manage online communities to protect members from raids, stop scam links, and 
 - **Crush Depth** — **1,600+ Members**
   - *Role:* Moderator
   - *Impact:* Kept chats clean, Handled tickets, and helped new members.
-- **Head tap** — **250+ Members**
-  - *Role:* Helper
-  - *Impact:* Welcomed new users and handled player support tickets daily.
+- **Mauv studio** — **3,000+ Members**
+  - *Role:* Moderator
+  - *Impact:* Helped users and handled player support tickets.
 
 ---
 
 ### 🎬 3. Content Creation
 I create gaming content that builds hype and drives player engagement. I can use these skills to help showcase upcoming updates or create tutorials for your community.
 
-- **Platforms:** YouTube
+- **Platforms:** YouTube(Main),Tiktok
 - **Niche/Focus:** Roblox gameplay, updates, tutorials'
 - **Stats:** 250+ Total Subscribers / 170k+ Total Views
 #### 📈 Best Performing Content
 - **Unlocking the gorgon in necromerger** — `17,000+ views` on YouTube
   - *Description:* My current best performing short showing me unlock a Legendary creature in Necromerger.
-- **walkthrough in Roblox +1 jump evolve tower (1-1000m)** — `200+ views` on YouTube
-  - *Description:* My current best performing video showing me doing a walkthrough In the game.
+- **+1 Speed Evolve World 3 Walkthrough No Deaths In Roblox!** — `400+ views` on YouTube
+  - *Description:* My current best performing video showing me doing a walkthrough in world 3 of the game.
 #### 📂 Companies I have worked for
-- **Mauv studio** - **2,400+ Members**
+- **Mauv studio** - **3,000+ Members**
   - *Role:* Content Creator
   - *Impact:* Produced content about their game and promoted it.
-- **Be Diao Nexus** - **900+ Members**
+- **Be Diao Nexus** - **1,000+ Members**
   - *Role:* Content Creator
   - *Impact:* Produced content about their game and promoted it.
 
