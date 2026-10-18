@@ -20,9 +20,8 @@ I test games like a real player while hunting down glitches, map exploits, and U
 #### 📂 Testing companies I have worked with
 - Zombie Obby Games
 - Guildcat Games
-- LAB Development
+- Head Tap
 - Mappy Tappy
-- OpenDev
 - And more...
 #### 📝 Example Bug Report Format
 > **Title:** UI Shop buttons overlap on mobile screens
@@ -44,7 +43,7 @@ I manage online communities to protect members from raids, stop scam links, and 
 - **Crush Depth** — **1,600+ Members**
   - *Role:* Moderator
   - *Impact:* Kept chats clean, Handled tickets, and helped new members.
-- **Mauv studio** — **3,000+ Members**
+- **Mauv studio** — **3,500+ Members**
   - *Role:* Moderator
   - *Impact:* Helped users and handled player support tickets.
 
@@ -55,17 +54,17 @@ I create gaming content that builds hype and drives player engagement. I can use
 
 - **Platforms:** YouTube(Main),Tiktok
 - **Niche/Focus:** Roblox gameplay, updates, tutorials'
-- **Stats:** 250+ Total Subscribers / 170k+ Total Views
+- **Stats:** 300+ Total Subscribers / 100k+ Total Views
 #### 📈 Best Performing Content
-- **Unlocking the gorgon in necromerger** — `17,000+ views` on YouTube
+- **Unlocking the gorgon in necromerger** — `18,000+ views` on YouTube
   - *Description:* My current best performing short showing me unlock a Legendary creature in Necromerger.
-- **+1 Speed Evolve World 3 Walkthrough No Deaths In Roblox!** — `400+ views` on YouTube
+- **+1 Speed Evolve World 3 Walkthrough No Deaths In Roblox!** — 1500+ views` on YouTube
   - *Description:* My current best performing video showing me doing a walkthrough in world 3 of the game.
 #### 📂 Companies I have worked for
-- **Mauv studio** - **3,000+ Members**
+- **Mauv studio** - **3,500+ Members**
   - *Role:* Content Creator
   - *Impact:* Produced content about their game and promoted it.
-- **Be Diao Nexus** - **1,000+ Members**
+- **DualMod Core** - **2,000+ Members**
   - *Role:* Content Creator
   - *Impact:* Produced content about their game and promoted it.
 
